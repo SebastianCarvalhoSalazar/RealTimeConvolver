@@ -1,7 +1,15 @@
+/*
+  ==============================================================================
+
+    This file contains the basic startup code for a JUCE application.
+    
+    Code developed by: Sebastian Carvalho Salazar
+
+  ==============================================================================
+*/
+
 #include <JuceHeader.h>
 #include "MainComponent.h"
-
-// Code developed by: Sebastian Carvalho Salazar
 
 //==============================================================================
 class RealTimeConvolverApplication  : public juce::JUCEApplication

@@ -6,7 +6,7 @@
     <GROUP id="{37528AE0-C87A-1AF4-E7E4-E7E82B9B0C7A}" name="Source">
       <FILE id="FH8u4N" name="filmStrip.h" compile="0" resource="0" file="Source/filmStrip.h"/>
       <FILE id="OW2dAa" name="Knob.png" compile="0" resource="1" file="Assets/Knob.png"/>
-      <FILE id="UtYQ7S" name="logo.PNG" compile="0" resource="1" file="Assets/logo.PNG"/>
+      <FILE id="WXRV8t" name="Logo.PNG" compile="0" resource="1" file="Assets/Logo.PNG"/>
       <FILE id="kOBzeH" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
       <FILE id="FCGxYK" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
       <FILE id="bWghfA" name="MainComponent.cpp" compile="1" resource="0"

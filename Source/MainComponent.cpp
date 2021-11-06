@@ -8,7 +8,7 @@ MainComponent::MainComponent() :
     Image  knobImage;
     knobImage = GIFImageFormat::loadFrom(BinaryData::Knob_png, BinaryData::Knob_pngSize);
 
-    auto logo = ImageCache::getFromMemory(BinaryData::logo2_PNG, BinaryData::logo2_PNGSize);
+    auto logo = ImageCache::getFromMemory(BinaryData::Logo_PNG, BinaryData::Logo_PNGSize);
     myImageComponent.setImage(logo, RectanglePlacement::stretchToFit);
 
     if (!logo.isNull())
